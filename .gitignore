@@ -1,0 +1,7 @@
+# Файлы не коммитим в дерево — они публикуются как release assets.
+*.jar
+*.exe
+*.dll
+*.zip
+manifest.json
+manifest.json.sig
